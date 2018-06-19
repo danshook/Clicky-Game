@@ -4,12 +4,13 @@ import "../App.css";
 class NavBar extends React.Component {
   render() {
     return (
-      <div>
-        <section className="App-navbar">
-          <ul>
-            <li className="App-brand">
+      <div className="container">
+        <section className="Navbar">
+          <ul className="Navbar-uList">
+            <li className="Navbar-list">
               <a href="http://localhost:3000/">Clicky Game!</a>
             </li>
+            <li className="Navbar-list">Click an image to begin!</li>
           </ul>
         </section>
       </div>
