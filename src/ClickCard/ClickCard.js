@@ -1,18 +1,18 @@
 import React from "react";
 import "../App.css";
-import ClickCard from "../ClickCard/ClickCard";
+import Image from "../Image/Image";
 
 
-
-class Main extends React.Component {
+class ClickCard extends React.Component {
   render() {
     return (
       <div>
           <p>lorem lsadkfjs;dfjsl;dfkjsdfl</p>
-          <ClickCard />
+          <Image />
+
       </div>
     );
   }
 }
 
-export default Main;
+export default ClickCard;
