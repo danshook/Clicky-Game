@@ -17,6 +17,7 @@ a {
   width: 33.3%;
   color: #fff;
   display: inline-block;
+  padding: 26px 0;
 }
 
 .App-logo {
@@ -25,10 +26,15 @@ a {
 }
 
 .App-header {
-  background-color: #222;
+  background-color: #2c323c;
+  background-image: url("https://d33wubrfki0l68.cloudfront.net/4de356f6ddb204ae047d4fe8bfadd690d4d0b2fe/00972/assets/images/geometry.svg");
+  background-repeat: repeat;
   height: 150px;
-  padding: 20px;
-  color: white;
+  padding: 180px 20px;
+  padding-bottom: 140px;
+  text-align: center;
+  color: #fff;
+  min-height: 400px;
 }
 
 .App-title {
