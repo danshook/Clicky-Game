@@ -30,7 +30,7 @@ class ClickCard extends React.Component {
       <div onClick={this.handleClick}>
           <p>Num of times clicked: {this.state.numOfTimesClicked}</p>
           <p><b>{this.props.myCoolImage}</b></p>
-          <img src={this.props.myCoolImage} />
+          <img src={this.props.myCoolImage}alt={""} />
           <Image />
 
       </div>

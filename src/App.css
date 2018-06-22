@@ -30,7 +30,7 @@ a {
   background-image: url("https://d33wubrfki0l68.cloudfront.net/4de356f6ddb204ae047d4fe8bfadd690d4d0b2fe/00972/assets/images/geometry.svg");
   background-repeat: repeat;
   height: 150px;
-  padding: 180px 20px;
+  /* padding: 180px 20px; */
   padding-bottom: 140px;
   text-align: center;
   color: #fff;
@@ -43,6 +43,16 @@ a {
 
 .App-intro {
   font-size: large;
+}
+
+.click-card {
+  background-size: cover;
+  background-position: 50%;
+  height: 170px;
+  width: 170px;
+  margin: 8px 25px;
+  border: 5px solid #f1f1f1;
+  border-radius: 3px;
 }
 
 @keyframes App-logo-spin {
