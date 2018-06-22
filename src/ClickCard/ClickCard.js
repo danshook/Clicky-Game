@@ -24,9 +24,13 @@ class ClickCard extends React.Component {
   }
 
   render() {
+    console.log('this component is rendering')
+    console.log("this.state", this.state)
     return (
-      <div>
-          <p>lorem lsadkfjs;dfjsl;dfkjsdfl</p>
+      <div onClick={this.handleClick}>
+          <p>Num of times clicked: {this.state.numOfTimesClicked}</p>
+          <p><b>{this.props.myCoolImage}</b></p>
+          <img src={this.props.myCoolImage} />
           <Image />
 
       </div>
