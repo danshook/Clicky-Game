@@ -6,7 +6,6 @@ class Image extends React.Component {
   render() {
     return (
       <div>
-          <p>lorem lsadkfjs;dfjsl;dfkjsdfl</p>
 
       </div>
     );

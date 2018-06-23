@@ -1,12 +1,64 @@
 [
     {
       "id": 1,
-      "image": "/assets/images/beth.png",
+      "image": "/assets/images/peter.jpeg",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "/assets/images/birdperson.png",
+      "image": "/assets/images/lois.jpeg",
       "clicked": false
-    }
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/stewie.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 4,
+        "image": "/assets/images/brian.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 5,
+        "image": "/assets/images/meg.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 6,
+        "image": "/assets/images/carter.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 7,
+        "image": "/assets/images/consuela.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 8,
+        "image": "/assets/images/herbert.jpeg",
+        "clicked": false
+      },
+      {
+          "id": 9,
+          "image": "/assets/images/joe.jpeg",
+          "clicked": false
+        },
+        {
+          "id": 10,
+          "image": "/assets/images/mayor.jpeg",
+          "clicked": false
+        },
+        {
+          "id": 11,
+          "image": "/assets/images/mort.png",
+          "clicked": false
+        },
+        {
+          "id": 12,
+          "image": "/assets/images/quagmire.jpeg",
+          "clicked": false
+        }
+  
+  
 ]
