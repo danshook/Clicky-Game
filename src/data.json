@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/beth.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/birdperson.png",
+      "clicked": false
+    }
+]
