@@ -2,62 +2,62 @@
     {
       "id": 1,
       "image": "/assets/images/peter.jpeg",
-      "clicked": false
+      "numOfTimesClicked": 0
     },
     {
       "id": 2,
       "image": "/assets/images/lois.jpeg",
-      "clicked": false
+      "numOfTimesClicked": 0
     },
     {
         "id": 3,
         "image": "/assets/images/stewie.jpeg",
-        "clicked": false
+        "numOfTimesClicked": 0
       },
       {
         "id": 4,
         "image": "/assets/images/brian.jpeg",
-        "clicked": false
+        "numOfTimesClicked": 0
       },
       {
         "id": 5,
         "image": "/assets/images/meg.jpeg",
-        "clicked": false
+        "numOfTimesClicked": 0
       },
       {
         "id": 6,
         "image": "/assets/images/carter.jpeg",
-        "clicked": false
+        "numOfTimesClicked": 0
       },
       {
         "id": 7,
         "image": "/assets/images/consuela.jpeg",
-        "clicked": false
+        "numOfTimesClicked": 0
       },
       {
         "id": 8,
         "image": "/assets/images/herbert.jpeg",
-        "clicked": false
+        "numOfTimesClicked": 0
       },
       {
           "id": 9,
           "image": "/assets/images/joe.jpeg",
-          "clicked": false
+          "numOfTimesClicked": 0
         },
         {
           "id": 10,
           "image": "/assets/images/mayor.jpeg",
-          "clicked": false
+          "numOfTimesClicked": 0
         },
         {
           "id": 11,
           "image": "/assets/images/mort.png",
-          "clicked": false
+          "numOfTimesClicked": 0
         },
         {
           "id": 12,
           "image": "/assets/images/quagmire.jpeg",
-          "clicked": false
+          "numOfTimesClicked": 0
         }
   
   
